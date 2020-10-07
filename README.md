@@ -26,4 +26,4 @@ On attend donc les différentes routes get, post, put ainsi que les systèmes de
 
 Sur le projet, précisez les auteurs (vous).
 
-A envoyer avant mercredi 14 cotobre 23h59. github: alexgaill
+**A envoyer avant mercredi 14 cotobre 23h59. github: alexgaill**
